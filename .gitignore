@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CQRSSample.Terminal/obj
+/CQRSSample.Terminal/bin/Debug/net5.0
+/CQRSSample/.vs/CQRSSample.Console/v16
+/CQRSSample/.vs/CQRSSample/v16
+/CQRSSample.Application/obj
